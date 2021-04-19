@@ -1,0 +1,6 @@
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Domain\bin\Debug\Domain.dll
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Domain\bin\Debug\Domain.pdb
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Domain\obj\Debug\Domain.dll
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Domain\obj\Debug\Domain.pdb

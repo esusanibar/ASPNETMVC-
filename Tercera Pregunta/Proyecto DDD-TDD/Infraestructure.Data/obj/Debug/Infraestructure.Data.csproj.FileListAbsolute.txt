@@ -1,0 +1,14 @@
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\obj\Debug\Infraestructure.Data.csprojAssemblyReference.cache
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\obj\Debug\Infraestructure.Data.csproj.CoreCompileInputs.cache
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\bin\Debug\Infraestructure.Data.dll.config
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\bin\Debug\Infraestructure.Data.dll
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\bin\Debug\Infraestructure.Data.pdb
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\bin\Debug\Domain.dll
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\bin\Debug\EntityFramework.dll
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\bin\Debug\Domain.pdb
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\bin\Debug\EntityFramework.xml
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\obj\Debug\Infraestructure.Data.csproj.CopyComplete
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\obj\Debug\Infraestructure.Data.dll
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Infraestructure.Data\obj\Debug\Infraestructure.Data.pdb

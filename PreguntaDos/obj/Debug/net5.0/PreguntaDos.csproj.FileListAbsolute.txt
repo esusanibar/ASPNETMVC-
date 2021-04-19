@@ -1,0 +1,12 @@
+D:\YANBAL\Examen\PreguntaDos\bin\Debug\net5.0\PreguntaDos.deps.json
+D:\YANBAL\Examen\PreguntaDos\bin\Debug\net5.0\PreguntaDos.dll
+D:\YANBAL\Examen\PreguntaDos\bin\Debug\net5.0\ref\PreguntaDos.dll
+D:\YANBAL\Examen\PreguntaDos\bin\Debug\net5.0\PreguntaDos.pdb
+D:\YANBAL\Examen\PreguntaDos\obj\Debug\net5.0\PreguntaDos.csprojAssemblyReference.cache
+D:\YANBAL\Examen\PreguntaDos\obj\Debug\net5.0\PreguntaDos.GeneratedMSBuildEditorConfig.editorconfig
+D:\YANBAL\Examen\PreguntaDos\obj\Debug\net5.0\PreguntaDos.AssemblyInfoInputs.cache
+D:\YANBAL\Examen\PreguntaDos\obj\Debug\net5.0\PreguntaDos.AssemblyInfo.cs
+D:\YANBAL\Examen\PreguntaDos\obj\Debug\net5.0\PreguntaDos.csproj.CoreCompileInputs.cache
+D:\YANBAL\Examen\PreguntaDos\obj\Debug\net5.0\PreguntaDos.dll
+D:\YANBAL\Examen\PreguntaDos\obj\Debug\net5.0\ref\PreguntaDos.dll
+D:\YANBAL\Examen\PreguntaDos\obj\Debug\net5.0\PreguntaDos.pdb

@@ -1,0 +1,14 @@
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\obj\Debug\Application.csprojAssemblyReference.cache
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\bin\Debug\Application.dll
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\bin\Debug\Application.pdb
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\bin\Debug\Domain.dll
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\bin\Debug\Infraestructure.Data.dll
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\bin\Debug\EntityFramework.dll
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\bin\Debug\Domain.pdb
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\bin\Debug\Infraestructure.Data.pdb
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\bin\Debug\Infraestructure.Data.dll.config
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\bin\Debug\EntityFramework.xml
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\obj\Debug\Application.csproj.CopyComplete
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\obj\Debug\Application.dll
+D:\YANBAL\ExampleDDD-master\ExampleDDD-master\Application\obj\Debug\Application.pdb
